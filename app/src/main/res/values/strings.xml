@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab 04</string>
+    <string name="tl">Top Left</string>
+    <string name="tr">Top Right</string>
+    <string name="bl">Bottom Left</string>
+    <string name="br">Bottom Right</string>
+    <string name="tm">Top Middle</string>
+    <string name="num1">View Each Corner</string>
+    <string name="num2">Middle Views</string>
+    <string name="num3">Guideline w/Background Color</string>
+    <string name="num4">Overlapping Views</string>
+    <string name="num5">ScrollView</string>
+    <string name="long_string">The stromatolites have been thought to be of biogenic origin ever since they were discovered in the 1980s. However, despite strong textural evidence, that theory was unproven for nearly four decades, because scientists hadn\'t been able to show the definitive presence of preserved organic matter remains, until today\'s publication in journal Geology. Professor Van Kranendonk says the discovery is the closest the team have come to a «smoking gun» to prove the existence of such ancient life. Ever since the Dresser Formation was discovered in the 1980, scientists have wondered whether the structures were truly microbial and therefore the earliest signs of life. Stromatolites in the Dresser Formation are usually sourced from the rock surface, and are therefore highly weathered. He found that the stromatolites are essentially composed of pyrite, a mineral also known as \'fool\'s gold\', that contains organic matter. Just over two years ago, Dr Baumgartner\'s colleague Tara Djokic, a UNSW PhD candidate, found stromatolites in hot spring deposits in the same region in WA, pushing back the earliest known existence of microbial life on land by 580 million years. Just last month, NASA and European Space Agency scientists spent as week in the Pilbara with Martin Van Kranendonk for specialist training in identifying signs of life in these same ancient rocks. It was the first time that Van Kranendonk shared the region\'s insights with a dedicated team of Mars specialists, a group including the Heads of NASA and ESA Mars 2020 missions.
+</string>
+    <string name="num6">HorizontalScrollView</string>
+    <string name="num7">CheckBoxes</string>
+</resources>
